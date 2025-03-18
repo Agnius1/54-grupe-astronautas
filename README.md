@@ -1,4 +1,4 @@
-# UFO
+# Astronautas
 
 Trumpas aprašas
 
@@ -30,7 +30,16 @@ Design: https://www.pinterest.com/pin/464293042846052714/
 
 - Github pages
 - big screen only (no responsive design)
--
+- fixed width and the center of the screen
+- social icons (FontAwesome)
+- Google Fonts
+- favicon
+- advanced CSS selectors
+- copyright symbol
+- button: user select none
+- button: hover state
+- man nav:hover state
+- main nav: selected menu option
 
 ## 🧰 Getting Started
 
